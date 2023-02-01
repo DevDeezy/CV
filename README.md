@@ -1,3 +1,3 @@
-# diogomendes.github.io
+# https://devdeezy.github.io/CV/
 
 #Projeto em desenvolvimento
